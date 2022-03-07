@@ -1,0 +1,14 @@
+{
+  "name": "vailla-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "thlim",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel"
+  },
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
+}
